@@ -1,0 +1,8 @@
+Bu klasöre şu dosyaları koy (isimler birebir aynı, küçük harf olmalı):
+
+  sarkimiz.mp3   -> şarkınız (gerçek bir MP3 dosyası olmalı)
+  video.mp4      -> son bölümdeki video (MP4 olmalı; telefonda en fazla ~1080p, mümkünse 50 MB altı)
+  ani1.jpg ... ani9.jpg -> anı fotoğrafları (zaten içeride)
+  gizli.jpg      -> gizli sürpriz fotoğrafı (istemiyorsan CONFIG'de foto: "" yap)
+
+Bu dosyayı yayınlamadan önce silebilirsin.
